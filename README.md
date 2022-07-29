@@ -20,5 +20,6 @@ The complete source code can be found at: https://github.com/CHAHATMB/SlumPopula
 - Mohak Chandani
 - Vinayak Bodke
 - Chahat Baghele
+- Neel Dandiwala
 
 Any suggestions on improving this webmap would be highly appreciated!!
